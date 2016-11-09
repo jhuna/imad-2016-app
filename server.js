@@ -5,7 +5,7 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-var content = {
+var article = {
     title: 'About me | Smruti Rekha Senapati',
     heading: 'Smruti Rekha Senapati',
     content: `<p>  Hi! I am Smruti and this is my first web-app.
