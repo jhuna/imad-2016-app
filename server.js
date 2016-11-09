@@ -6,8 +6,9 @@ var app = express();
 app.use(morgan('combined'));
 
 var content = {
-    title: About me |
-}
+    title: 'About me | Smruti Rekha Senapati',
+    heading: 'Smruti Rekha Senapati',
+};
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
