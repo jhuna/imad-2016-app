@@ -24,7 +24,7 @@ var article = {
     &copy; 2016 Copyright Smruti Rekha Senapati
     </font>
     </p>
-    </div>'
+    </div>`
 };
 
 
