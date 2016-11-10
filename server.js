@@ -16,7 +16,7 @@ var articles = {
 <div class="menu">
 <br>
             <pre>
-    Home      My Resume       My app   
+  Home      My Resume       My app   
     </pre>
     </div>    
 <div>
