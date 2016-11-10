@@ -5,9 +5,8 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-var article = {
+var index = {
     title: 'About me | Smruti Rekha Senapati',
-    heading: 'Smruti Rekha Senapati',
     content: `  
 <div class="container">    
      <h1>
@@ -42,10 +41,29 @@ var article = {
     </p>
 </div>`
 };
+function createTemplate (data) {
+var title = data.title;
+var content = data.content;
+var htmltemplate = `
+<HTML>
+<head>
+    <title>
+        ${title}
+    </title>
+    <meta name="viewport" content="width=device-width initial-scale=1">
+<link href="/ui/style.css" type="text/css" rel="stylesheet">
+</head>
 
+<BODY>
+${content}
+</BODY>
+</HTML>
+`;
+return htmltemplate;
+}
 
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'index.html'));
+  res.send(createTemplate(index));
 });
 
 app.get('/ui/style.css', function (req, res) {
