@@ -15,7 +15,7 @@ var articles = {
     </h1>
 <div class="menu">
 
-&nbsp;&nbsp; <a href="/"> Home </a>  &nbsp;&nbsp; <a href="/myresume">    My Resume  </a>  &nbsp;&nbsp;    My app   
+&nbsp;&nbsp; <a href="/" style="color:white"> Home </a>  &nbsp;&nbsp; <a href="/myresume" style="color:white">    My Resume  </a>  &nbsp;&nbsp;    My app   
     
     </div>    
 <div>
