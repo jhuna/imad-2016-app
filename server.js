@@ -18,6 +18,7 @@ var articles = {
 &nbsp;&nbsp; <a href="/" style="color:white"> Home </a>  &nbsp;&nbsp; <a href="/myresume" style="color:white">    My Resume  </a>  &nbsp;&nbsp;    My app   
     
     </div>    
+<br>
 <div>
     <center>
         <img src="https://4.bp.blogspot.com/-ro0FfxfjGQg/WCMELfxEaAI/AAAAAAAAAS4/reHknJ2K8CUA1k-YzKGpyUmWbeQVMz6YwCLcB/s1600/me.jpg"/>
