@@ -115,7 +115,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/myresume', function (req, res) {
-  res.send(createTemplate(myresume));
+  res.send(createTemplate(articles.myresume));
 });
 
 app.get('/article-one', function (req, res) {
