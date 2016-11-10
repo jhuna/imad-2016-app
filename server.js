@@ -13,14 +13,16 @@ var articles = {
      <h1>
         <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
     </h1>
+<div class="menu">
     <p>
-        My Resume
+        Home    My Resume   My app   
     </p>
+</div>    
 <div>
     <center>
         <img src="https://4.bp.blogspot.com/-ro0FfxfjGQg/WCMELfxEaAI/AAAAAAAAAS4/reHknJ2K8CUA1k-YzKGpyUmWbeQVMz6YwCLcB/s1600/me.jpg"/>
     </center>
-<div class="menu">                
+                
     
     <p>  
         Hi! I am Smruti and this is my first web-app.
@@ -46,16 +48,15 @@ var articles = {
 myresume: {
     title: 'My resume | Smruti Rekha Senapati',
     content: `  
-<div class="container">    
      <h1>
         <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
     </h1>
-<div>
-    <center>
-        <img src="https://4.bp.blogspot.com/-ro0FfxfjGQg/WCMELfxEaAI/AAAAAAAAAS4/reHknJ2K8CUA1k-YzKGpyUmWbeQVMz6YwCLcB/s1600/me.jpg"/>
-    </center>
+<div class="container">
 <div class="menu">                
-        
+        <p>
+        Home    My Resume   My app   
+    </p>
+    </div>
     <p>  
         Hi! I am Smruti and this is my first web-app.
     </p>
