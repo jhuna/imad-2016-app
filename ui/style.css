@@ -36,6 +36,9 @@ a{
     color: white;
 }    
 
+a:hover {
+    text-decoration: underline;
+}
 
 .center {
     text-align: center;
