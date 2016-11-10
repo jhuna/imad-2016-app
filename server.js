@@ -54,7 +54,7 @@ myresume: {
 <div class="container">
 <div class="menu">                
         <p>
-        Home    My Resume   My app   
+        Home       My Resume       My app   
     </p>
     </div>
     <p>  
