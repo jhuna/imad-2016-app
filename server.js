@@ -8,23 +8,26 @@ app.use(morgan('combined'));
 var article = {
     title: 'About me | Smruti Rekha Senapati',
     heading: 'Smruti Rekha Senapati',
-    content: `<p>  Hi! I am Smruti and this is my first web-app.
-  </p>
-  <p> I am from Baripada, Odisha, India.
-  I have a Bachelor's in Electrical Engineering from Biju Pattnaik University of Technology, Rourkela, Odisha.</p>
-  <p>
-  I am pursuing a M.Tech also in Electrical Engineeirng from BPUT through Seemanta College of Engineering, Baripada.
-  </p>
-  <p>
-  I currently reside in Pune.
-  </p>
-  <div class="center">
-<p>
-    <font size="-1" color="red">
-    &copy; 2016 Copyright Smruti Rekha Senapati
-    </font>
-    </p>
-    </div>`
+    content: `  <p>  
+                    Hi! I am Smruti and this is my first web-app.
+                </p>
+                <p> 
+                    I am from Baripada, Odisha, India.
+                    I have a Bachelor's in Electrical Engineering from Biju Pattnaik University of Technology, Rourkela, Odisha.
+                </p>
+                <p>
+                    I am pursuing a M.Tech also in Electrical Engineeirng from BPUT through Seemanta College of Engineering, Baripada.
+                </p>
+                <p>
+                    I currently reside in Pune.
+                </p>
+<div class="center">
+                <p>
+                    <font size="-1" color="red">
+                    &copy; 2016 Copyright Smruti Rekha Senapati
+                    </font>
+                </p>
+</div>`
 };
 
 
