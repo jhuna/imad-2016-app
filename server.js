@@ -14,13 +14,11 @@ var articles = {
         <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
     </h1>
 <div class="menu">
-    <p>
-    <br>
-    <pre>
+<br>
+            <pre>
         Home      My Resume       My app   
     </pre>
-    </p>
-</div>    
+    </div>    
 <div>
     <center>
         <img src="https://4.bp.blogspot.com/-ro0FfxfjGQg/WCMELfxEaAI/AAAAAAAAAS4/reHknJ2K8CUA1k-YzKGpyUmWbeQVMz6YwCLcB/s1600/me.jpg"/>
