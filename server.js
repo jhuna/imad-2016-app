@@ -14,9 +14,9 @@ var articles = {
         <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
     </h1>
 <div class="menu">
-    <p><pre>
+    <p>
         Home      My Resume       My app   
-    </pre>
+    
     </p>
 </div>    
 <div>
