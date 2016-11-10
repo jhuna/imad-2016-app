@@ -5,21 +5,23 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
-var index = {
+var articles = {
+    index: {
     title: 'About me | Smruti Rekha Senapati',
     content: `  
 <div class="container">    
      <h1>
         <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
     </h1>
+    <p>
+        My Resume
+    </p>
 <div>
     <center>
         <img src="https://4.bp.blogspot.com/-ro0FfxfjGQg/WCMELfxEaAI/AAAAAAAAAS4/reHknJ2K8CUA1k-YzKGpyUmWbeQVMz6YwCLcB/s1600/me.jpg"/>
     </center>
 <div class="menu">                
-    <p>
-        My Resume
-    </p>    
+    
     <p>  
         Hi! I am Smruti and this is my first web-app.
     </p>
@@ -40,7 +42,44 @@ var index = {
     </font>
     </p>
 </div>`
+},
+myresume: {
+    title: 'My resume | Smruti Rekha Senapati',
+    content: `  
+<div class="container">    
+     <h1>
+        <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
+    </h1>
+<div>
+    <center>
+        <img src="https://4.bp.blogspot.com/-ro0FfxfjGQg/WCMELfxEaAI/AAAAAAAAAS4/reHknJ2K8CUA1k-YzKGpyUmWbeQVMz6YwCLcB/s1600/me.jpg"/>
+    </center>
+<div class="menu">                
+        
+    <p>  
+        Hi! I am Smruti and this is my first web-app.
+    </p>
+    <p> 
+        I am from Baripada, Odisha, India.
+        I have a Bachelor's in Electrical Engineering from Biju Pattnaik University of Technology, Rourkela, Odisha.
+    </p>
+    <p>
+        I am pursuing a M.Tech also in Electrical Engineeirng from BPUT through Seemanta College of Engineering, Baripada.
+    </p>
+    <p>
+        I currently reside in Pune.
+    </p>
+<div class="center">
+    <p>
+    <font size="-1" color="red">
+    &copy; 2016 Copyright Smruti Rekha Senapati
+    </font>
+    </p>
+</div>`
+}
 };
+
+
 function createTemplate (data) {
 var title = data.title;
 var content = data.content;
@@ -74,8 +113,8 @@ app.get('/ui/madi.png', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
 });
 
-app.get('/article-two', function (req, res) {
-  res.send('article two will be served here');
+app.get('/myresume', function (req, res) {
+  res.send(createTemplate(myresume));
 });
 
 app.get('/article-one', function (req, res) {
