@@ -14,7 +14,7 @@ var articles = {
         <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
     </h1>
 <div class="menu">
-<br>
+
 &nbsp;&nbsp; <a href="/"> Home </a>  &nbsp;&nbsp; <a href="/myresume">    My Resume  </a>  &nbsp;&nbsp;    My app   
     
     </div>    
