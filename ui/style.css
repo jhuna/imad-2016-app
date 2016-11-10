@@ -24,6 +24,12 @@ h1{
     text-align: center;
 }
 
+.menu{
+    font-family: Arial;
+    color: white;
+    background-color: MidnightBlue;
+}
+
 
 .center {
     text-align: center;
