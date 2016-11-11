@@ -12,7 +12,7 @@ var articles = {
 <div class="container">    
      <h1>
         <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
-        <br>
+        
     </h1>
 <div class="menu">
 
@@ -50,10 +50,11 @@ var articles = {
 myresume: {
     title: 'My resume | Smruti Rekha Senapati',
     content: `  
+<div class="container">
      <h1>
         <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
     </h1>
-<div class="container">
+
 <div class="menu">                
         <p>
         Home       My Resume       My app   
