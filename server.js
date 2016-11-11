@@ -56,9 +56,7 @@ myresume: {
     </h1>
 
 <div class="menu">                
-        <p>
-        Home       My Resume       My app   
-    </p>
+        &nbsp;&nbsp; <a href="/" style="color:white"> Home </a>  &nbsp;&nbsp; <a href="/myresume" style="color:white">    My Resume  </a>  &nbsp;&nbsp;    My app
     </div>
     <p>  
         Hi! I am Smruti and this is my first web-app.
