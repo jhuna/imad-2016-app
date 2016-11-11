@@ -83,6 +83,10 @@ Project Sponsored by Innodust, Bhubaneswar
 Project Guide: Lect. Chakradhar Panda
 ACADEMIC INTERESTS
 Power Electronics, Electrical & electronics measurement, Electrical machines.
+COURSES TAKEN IN ENGINEERING
+Departmental: Network theory, Analog electronic circuits, Electrical machines, Digital electronics circuit, Project Management, Electrical and electronics measurement, Control system engineering, Power electronics, Sensors and transducers, Digital signal processing, Transmission and distribution system, Microprocessor and microcontroller, Computer network and data communication, Power system operation and control, Advanced control systems, Flexible AC transmission system, Power station engineering and economy, Power system protection, Digital image processing, Electrical power quality, Transmission and distribution system.
+
+Non-departmental: Material science and engineering, Fluid mechanics and machines, C++ and Object oriented programming, Organizational behaviour, Database management systems, Biomedical instrumentation, Entrepreneurship development, Physics of semi-conductor devices, Engineering economics and costing, Optimization in engineering, Electromagnetic theory, Environmental engineering and safety.
 
     </p>
     
