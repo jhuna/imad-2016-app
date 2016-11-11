@@ -85,19 +85,19 @@ ACADEMIC PROFILE
 <th>CGPA</th>
 </tr>
 <tr>
-<td>M.Tech in Electrical Engineering</td>
+<td>M.Tech, Electrical Engineering</td>
 <td>Pursuing</td>
 <td>Biju Pattnaik University of Technology</td>
 <td>na</td>
 </tr>
 <tr>
-<td>B.Tech in Electrical Engineering</td>
+<td>B.Tech, Electrical Engineering</td>
 <td>2014</td>
 <td>Biju Pattnaik University of Technology</td>
 <td>7.62</td>
 </tr>
 <tr>
-<td>Diploma in Electrical Engineering</td>
+<td>Diploma, Electrical Engineering</td>
 <td>2011</td>
 <td>Balasore School of Engineering</td>
 <td>73%</td>
