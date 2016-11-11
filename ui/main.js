@@ -8,5 +8,5 @@ element.innerHTML = 'new value';
 var img = document.getElementById("madison");
 img.onclick = function () { 
     
-    img.style.marginleft = "500px";
+    img.style.marginright = "100px";
 };
