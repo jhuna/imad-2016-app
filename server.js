@@ -59,8 +59,12 @@ myresume: {
         &nbsp;&nbsp; <a href="/" style="color:white"> Home </a>  &nbsp;&nbsp; <a href="/myresume" style="color:white">    My Resume  </a>  &nbsp;&nbsp;    My app
     </div>
     <p>  
+    <div class="center">
+    <h3>
     Curriculum Vitae
+</h3>
 Smruti Rekha Senapati
+</div>
 Date of Birth: 05/04/1991                                                                                            Address for Correspondence: 
 Sex: Female	                    C-31, NABARD Quarters
 Nationality: Indian	     9A Boat Club Road, Bund Garden
