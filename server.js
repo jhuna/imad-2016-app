@@ -106,17 +106,29 @@ ACADEMIC PROFILE
 <h4>
 CAREER OBJECTIVE
 </h4>
-To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.
+<p>
+To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization
+objective.
+<h4>
 PROJECTS
+</h4>
 Design and installation of Solar power plant (Sept.'13 - Mar.'14)
 B.Tech project completed at BCET, Sergarh/Bhubaneshwar.
 Project Sponsored by Innodust, Bhubaneswar
 Project Guide: Lect. Chakradhar Panda
+<h4>
 ACADEMIC INTERESTS
+</h4>
+<p>
 Power Electronics, Electrical & electronics measurement, Electrical machines.
-COURSES TAKEN IN ENGINEERING
-Departmental: Network theory, Analog electronic circuits, Electrical machines, Digital electronics circuit, Project Management, Electrical and electronics measurement, Control system engineering, Power electronics, Sensors and transducers, Digital signal processing, Transmission and distribution system, Microprocessor and microcontroller, Computer network and data communication, Power system operation and control, Advanced control systems, Flexible AC transmission system, Power station engineering and economy, Power system protection, Digital image processing, Electrical power quality, Transmission and distribution system.
 
+</p>
+<h4>
+COURSES TAKEN IN ENGINEERING
+</h4>
+<p>
+Departmental: Network theory, Analog electronic circuits, Electrical machines, Digital electronics circuit, Project Management, Electrical and electronics measurement, Control system engineering, Power electronics, Sensors and transducers, Digital signal processing, Transmission and distribution system, Microprocessor and microcontroller, Computer network and data communication, Power system operation and control, Advanced control systems, Flexible AC transmission system, Power station engineering and economy, Power system protection, Digital image processing, Electrical power quality, Transmission and distribution system.
+</p>
 Non-departmental: Material science and engineering, Fluid mechanics and machines, C++ and Object oriented programming, Organizational behaviour, Database management systems, Biomedical instrumentation, Entrepreneurship development, Physics of semi-conductor devices, Engineering economics and costing, Optimization in engineering, Electromagnetic theory, Environmental engineering and safety.
 COMPUTER SKILLS
 Languages: C++
