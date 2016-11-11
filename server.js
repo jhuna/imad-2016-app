@@ -103,7 +103,7 @@ ACADEMIC PROFILE
 </tr>
 </table>
 </center>
-
+<BR>
 <h4>
 CAREER OBJECTIVE
 </h4>
