@@ -65,9 +65,8 @@ Smruti Rekha Senapati
 </h2>
 </div>
 <div class="contact">
-Date of Birth: 05/04/1991
-Sex: Female
-Nationality: Indian
+Date of Birth: 05/04/1991 </br>
+Sex: Female</br>
 Address: C-31, NABARD Quarters
 9A Boat Club Road, Bund Garden
 Pune-411001
