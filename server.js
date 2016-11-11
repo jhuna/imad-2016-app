@@ -126,20 +126,37 @@ Power Electronics, Electrical & electronics measurement, Electrical machines.
 <h4>
 COURSES TAKEN IN ENGINEERING
 </h4>
-<p>
-Departmental: Network theory, Analog electronic circuits, Electrical machines, Digital electronics circuit, Project Management, Electrical and electronics measurement, Control system engineering, Power electronics, Sensors and transducers, Digital signal processing, Transmission and distribution system, Microprocessor and microcontroller, Computer network and data communication, Power system operation and control, Advanced control systems, Flexible AC transmission system, Power station engineering and economy, Power system protection, Digital image processing, Electrical power quality, Transmission and distribution system.
-</p>
+<ul>
+<li>Departmental: Network theory, Analog electronic circuits, Electrical machines, Digital electronics circuit, Project Management, Electrical and electronics measurement, Control system engineering, Power electronics, Sensors and transducers, Digital signal processing, Transmission and distribution system, Microprocessor and microcontroller, Computer network and data communication, Power system operation and control, Advanced control systems, Flexible AC transmission system, Power station engineering and economy, Power system protection, Digital image processing, Electrical power quality, Transmission and distribution system.
+</li>
+<li>
 Non-departmental: Material science and engineering, Fluid mechanics and machines, C++ and Object oriented programming, Organizational behaviour, Database management systems, Biomedical instrumentation, Entrepreneurship development, Physics of semi-conductor devices, Engineering economics and costing, Optimization in engineering, Electromagnetic theory, Environmental engineering and safety.
+
+</li>
+</ul>
+<h4>
 COMPUTER SKILLS
-Languages: C++
-Operating Systems: Windows 
+</h4>
+<ul>
+<li>Languages: C++</li>
+<li>Operating Systems: Windows</li> 
+</ul>
 
+<h4>
 ADDITIONAL INFORMATION
-Character Traits: Enthusiastic Learner, eager to learn new technologies, honest, good at communication and always prepared to accept challenges.
+</h4>
+<ul>
+<li>Character Traits: Enthusiastic Learner, eager to learn new technologies, honest, good at communication and always prepared to accept challenges.</li>
+<li>
 Background: Born and brought up in Baripada, Mayurbhanj district, Odisha.
+</li>
+<li>
 Hobbies: Cooking, traveling, movies etc.
+</li>
+<li>
 Languages known: English, Hindi, Odia.
-
+</li>
+</ul>
     </p>
     
 <div class="center">
