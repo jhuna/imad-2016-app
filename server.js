@@ -76,7 +76,7 @@ email: smruti.bpd@gmail.com</br>
 <h4>
 ACADEMIC PROFILE
 </h4>
-<center>
+
 <table border="1">
 <tr>
 <th>Degree/Diploma</th>
@@ -103,7 +103,7 @@ ACADEMIC PROFILE
 <td>73%</td>
 </tr>
 </table>
-</center>
+
 <BR>
 <h4>
 CAREER OBJECTIVE
