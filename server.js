@@ -59,18 +59,15 @@ myresume: {
         &nbsp;&nbsp; <a href="/" style="color:white"> Home </a>  &nbsp;&nbsp; <a href="/myresume" style="color:white">    My Resume  </a>  &nbsp;&nbsp;    My app
     </div>
     <p>  
-        Hi! I am Smruti and this is my first web-app.
+    Curriculum Vitae
+Smruti Rekha Senapati
+Date of Birth: 05/04/1991                                                                                            Address for Correspondence: 
+Sex: Female	                    C-31, NABARD Quarters
+Nationality: Indian	     9A Boat Club Road, Bund Garden
+Marital status: Married	             Pune-411001
+
     </p>
-    <p> 
-        I am from Baripada, Odisha, India.
-        I have a Bachelor's in Electrical Engineering from Biju Pattnaik University of Technology, Rourkela, Odisha.
-    </p>
-    <p>
-        I am pursuing a M.Tech also in Electrical Engineeirng from BPUT through Seemanta College of Engineering, Baripada.
-    </p>
-    <p>
-        I currently reside in Pune.
-    </p>
+    
 <div class="center">
     <p>
     <font size="-1" color="red">
