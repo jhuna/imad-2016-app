@@ -164,7 +164,7 @@ Background: Born and brought up in Baripada, Mayurbhanj district, Odisha.
 Hobbies: Cooking, traveling, movies etc.
 </li>
 <li>
-Languages known: English, Hindi, Odia.
+Language skills: English, Hindi, Odia.
 </li>
 </ul>
     </p>
