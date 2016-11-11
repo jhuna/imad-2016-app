@@ -82,7 +82,7 @@ ACADEMIC PROFILE
 <th>Degree/Diploma</th>
 <th>Year</th>
 <th>Institute, City</th>
-<th>%marks/CGPA</th>
+<th>CGPA</th>
 </tr>
 <tr>
 <td>M.Tech in Electrical Engineering</td>
