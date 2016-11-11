@@ -114,15 +114,17 @@ objective.
 COURSES COMPLETED
 </H4>
 <P>
-Introduction to Modern Application Development, NPTEL, IIT Madras
+Introduction to Modern Application Development, NPTEL, IIT Madras: Covering web and internet fundamentals, building a web app, javascript,
+database management and security. 
 </p>
 <h4>
 PROJECTS
 </h4>
-Design and installation of Solar power plant (Sept.'13 - Mar.'14)
-B.Tech project completed at BCET, Sergarh/Bhubaneshwar.
-Project Sponsored by Innodust, Bhubaneswar
-Project Guide: Lect. Chakradhar Panda
+<ul>
+<li>Design and installation of Solar power plant (Sept.'13 - Mar.'14)</li>
+<li>B.Tech project completed at BCET, Sergarh/Bhubaneshwar.</li>
+<li>Project Sponsored by Innodust, Bhubaneswar</li>
+<li>Project Guide: Lect. Chakradhar Panda</li>
 <h4>
 ACADEMIC INTERESTS
 </h4>
