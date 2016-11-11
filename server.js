@@ -87,6 +87,15 @@ COURSES TAKEN IN ENGINEERING
 Departmental: Network theory, Analog electronic circuits, Electrical machines, Digital electronics circuit, Project Management, Electrical and electronics measurement, Control system engineering, Power electronics, Sensors and transducers, Digital signal processing, Transmission and distribution system, Microprocessor and microcontroller, Computer network and data communication, Power system operation and control, Advanced control systems, Flexible AC transmission system, Power station engineering and economy, Power system protection, Digital image processing, Electrical power quality, Transmission and distribution system.
 
 Non-departmental: Material science and engineering, Fluid mechanics and machines, C++ and Object oriented programming, Organizational behaviour, Database management systems, Biomedical instrumentation, Entrepreneurship development, Physics of semi-conductor devices, Engineering economics and costing, Optimization in engineering, Electromagnetic theory, Environmental engineering and safety.
+COMPUTER SKILLS
+Languages: C++
+Operating Systems: Windows 
+
+ADDITIONAL INFORMATION
+Character Traits: Enthusiastic Learner, eager to learn new technologies, honest, good at communication and always prepared to accept challenges.
+Background: Born and brought up in Baripada, Mayurbhanj district, Odisha.
+Hobbies: Cooking, traveling, movies etc.
+Languages known: English, Hindi, Odia.
 
     </p>
     
