@@ -175,8 +175,7 @@ Language skills: English, Hindi, Odia.
     <font size="-1" color="red">
     &copy; 2016 Copyright Smruti Rekha Senapati
     </font>
-    
-</div>`
+    </div>`
 }
 };
 
