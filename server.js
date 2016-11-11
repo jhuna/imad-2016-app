@@ -104,6 +104,12 @@ ACADEMIC PROFILE
 </table>
 </center>
 <h4>
+COURSES TAKEN OUTSIDE ACADEMIA
+</H4>
+<P>
+Introduction to Modern Application Development, NPTEL, IIT Madras
+<p>
+<h4>
 CAREER OBJECTIVE
 </h4>
 <p>
