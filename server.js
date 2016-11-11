@@ -78,6 +78,10 @@ CAREER OBJECTIVE
 To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.
 PROJECTS
 Design and installation of Solar power plant (Sept.'13 - Mar.'14)
+B.Tech project completed at BCET, Sergarh/Bhubaneshwar.
+Project Sponsored by Innodust, Bhubaneswar
+Project Guide: Lect. Chakradhar Panda
+
     </p>
     
 <div class="center">
