@@ -54,6 +54,9 @@ table td{
  text-align: center;
 }
 
+table {
+    margin-left: 5px;
+}
 
 .menu{
     font-family: Arial;
