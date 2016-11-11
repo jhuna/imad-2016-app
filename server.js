@@ -12,6 +12,7 @@ var articles = {
 <div class="container">    
      <h1>
         <a href="/" style="text-decoration:none">Smruti Rekha Senapati</a>
+        <br>
     </h1>
 <div class="menu">
 
