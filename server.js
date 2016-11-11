@@ -67,11 +67,11 @@ Smruti Rekha Senapati
 <div class="contact">
 Date of Birth: 05/04/1991 </br>
 Sex: Female</br>
-Address: C-31, NABARD Quarters
-9A Boat Club Road, Bund Garden
-Pune-411001
-Phone: +919405880424	             
-email: smruti.bpd@gmail.com
+Address: C-31, NABARD Quarters</br>
+9A Boat Club Road, Bund Garden</br>
+Pune-411001</br>
+Phone: +919405880424</br>	             
+email: smruti.bpd@gmail.com</br>
 <hr></div>
 <h4>
 ACADEMIC PROFILE
