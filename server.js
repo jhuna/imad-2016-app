@@ -75,6 +75,7 @@ Phone: +919405880424	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <h4>
 ACADEMIC PROFILE
 </h4>
+<center>
 <table border="1">
 <tr>
 <th>Degree/Diploma</th>
@@ -101,6 +102,7 @@ ACADEMIC PROFILE
 <td>73%</td>
 </tr>
 </table>
+</center>
 <h4>
 CAREER OBJECTIVE
 </h4>
