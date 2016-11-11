@@ -75,11 +75,32 @@ Phone: +919405880424	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <h4>
 ACADEMIC PROFILE
 </h4>
-Degree/Diploma	Year	Institute, City	%marks/CGPA
-M.Tech in Electrical Engineering	Pursuing	Biju Pattnaik Technical University	
-B.Tech in Electrical Engineering	2014	Biju Pattnaik Technical University	7.62
-Diploma in Electrical Engineering	2011	Balasore School of Engineering	73%
-Xth Higher Secondary Exam, Odisha	2006	M P K Girls High School, Baripada	58%
+<table border="0">
+<tr>
+<th>Degree/Diploma</th>
+<th>Year</th>
+<th>Institute, City</th>
+<th>%marks/CGPA</th>
+</tr>
+<tr>
+<td>M.Tech in Electrical Engineering</td>
+<td>Pursuing</td>
+<td>Biju Pattnaik Technical University</td>
+<td>na</td>
+</tr>
+<tr>
+<td>B.Tech in Electrical Engineering</td>
+<td>2014</td>
+<td>Biju Pattnaik Technical University</td>
+<td>7.62</td>
+</tr>
+<tr>
+<td>Diploma in Electrical Engineering</td>
+<td>2011</td>
+<td>Balasore School of Engineering</td>
+<td>73%</td>
+</tr>
+</table>
 
 CAREER OBJECTIVE
 To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.
