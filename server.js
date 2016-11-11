@@ -170,7 +170,7 @@ Language skills: English, Hindi, Odia.
 </ul>
     </p>
     
-<div id="crnote">
+<div class="crnote">
     <p>
     <font size="-1" color="red">
     &copy; 2016 Copyright Smruti Rekha Senapati
