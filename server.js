@@ -60,7 +60,9 @@ myresume: {
     <h3>
     Curriculum Vitae
 </h3>
+<h2>
 Smruti Rekha Senapati
+</h2>
 </div>
 Date of Birth: 05/04/1991                                                                                            Address for Correspondence: 
 Sex: Female	                    C-31, NABARD Quarters
