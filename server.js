@@ -125,6 +125,7 @@ PROJECTS
 <li>B.Tech project completed at BCET, Sergarh/Bhubaneshwar.</li>
 <li>Project Sponsored by Innodust, Bhubaneswar</li>
 <li>Project Guide: Lect. Chakradhar Panda</li>
+</ul>
 <h4>
 ACADEMIC INTERESTS
 </h4>
