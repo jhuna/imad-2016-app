@@ -87,13 +87,13 @@ ACADEMIC PROFILE
 <tr>
 <td>M.Tech in Electrical Engineering</td>
 <td>Pursuing</td>
-<td>Biju Pattnaik Technical University</td>
+<td>Biju Pattnaik University of Technology</td>
 <td>na</td>
 </tr>
 <tr>
 <td>B.Tech in Electrical Engineering</td>
 <td>2014</td>
-<td>Biju Pattnaik Technical University</td>
+<td>Biju Pattnaik University of Technology</td>
 <td>7.62</td>
 </tr>
 <tr>
