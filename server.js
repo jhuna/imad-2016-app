@@ -144,7 +144,7 @@ Non-departmental: Material science and engineering, Fluid mechanics and machines
 COMPUTER SKILLS
 </h4>
 <ul>
-<li>Languages: C++</li>
+<li>Languages: C++, HTML, CSS, SQL, Javascript</li>
 <li>Operating Systems: Windows</li> 
 </ul>
 
