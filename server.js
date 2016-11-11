@@ -65,6 +65,17 @@ Date of Birth: 05/04/1991                                                       
 Sex: Female	                    C-31, NABARD Quarters
 Nationality: Indian	     9A Boat Club Road, Bund Garden
 Marital status: Married	             Pune-411001
+Phone: +919405880424	           email: smruti.bpd@gmail.com
+
+ACADEMIC PROFILE
+Degree/Diploma	Year	Institute, City	%marks/CGPA
+M.Tech in Electrical Engineering	Pursuing	Biju Pattnaik Technical University	
+B.Tech in Electrical Engineering	2014	Biju Pattnaik Technical University	7.62
+Diploma in Electrical Engineering	2011	Balasore School of Engineering	73%
+Xth Higher Secondary Exam, Odisha	2006	M P K Girls High School, Baripada	58%
+
+CAREER OBJECTIVE
+To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.
 
     </p>
     
