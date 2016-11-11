@@ -64,12 +64,13 @@ myresume: {
 Smruti Rekha Senapati
 </h2>
 </div>
-Date of Birth: 05/04/1991                                                                                            Address for Correspondence: 
-Sex: Female	                    C-31, NABARD Quarters
-Nationality: Indian	     9A Boat Club Road, Bund Garden
-Marital status: Married	             Pune-411001
-Phone: +919405880424	           email: smruti.bpd@gmail.com
-
+<div class="contact">
+Date of Birth: 05/04/1991   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Address for Correspondence: 
+Sex: Female	                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          C-31, NABARD Quarters
+Nationality: Indian	     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             9A Boat Club Road, Bund Garden
+Marital status: Married  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	            Pune-411001
+Phone: +919405880424	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             email: smruti.bpd@gmail.com
+</div>
 ACADEMIC PROFILE
 Degree/Diploma	Year	Institute, City	%marks/CGPA
 M.Tech in Electrical Engineering	Pursuing	Biju Pattnaik Technical University	
