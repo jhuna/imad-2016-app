@@ -103,18 +103,19 @@ ACADEMIC PROFILE
 </tr>
 </table>
 </center>
-<h4>
-COURSES TAKEN OUTSIDE ACADEMIA
-</H4>
-<P>
-Introduction to Modern Application Development, NPTEL, IIT Madras
-<p>
+
 <h4>
 CAREER OBJECTIVE
 </h4>
 <p>
 To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization
 objective.
+<h4>
+COURSES COMPLETED
+</H4>
+<P>
+Introduction to Modern Application Development, NPTEL, IIT Madras
+</p>
 <h4>
 PROJECTS
 </h4>
