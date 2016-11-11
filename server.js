@@ -76,7 +76,8 @@ Xth Higher Secondary Exam, Odisha	2006	M P K Girls High School, Baripada	58%
 
 CAREER OBJECTIVE
 To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.
-
+PROJECTS
+Design and installation of Solar power plant (Sept.'13 - Mar.'14)
     </p>
     
 <div class="center">
