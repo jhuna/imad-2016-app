@@ -6,9 +6,9 @@ console.log('Loaded!');
 
 //move the image
 var img = document.getElementById("madison");
- 
+ var marginLeft = 0;
     function moveRight() {
-    var marginLeft = 0;
+    
         marginLeft = marginLeft + 10;
         img.style.marginLeft = marginLeft + 'px';
     }
