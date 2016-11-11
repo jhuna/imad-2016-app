@@ -16,7 +16,7 @@ var articles = {
     </h1>
 <div class="menu">
 
-&nbsp;&nbsp; <a href="/" style="color:white"> Home </a>  &nbsp;&nbsp; <a href="/myresume" style="color:white">    My Resume  </a>  &nbsp;&nbsp;    My app   
+&nbsp;&nbsp; <a href="/" style="color:white"> Home </a>  &nbsp;&nbsp; <a href="/myresume" style="color:white">    My Resume  </a>  &nbsp;&nbsp;    <a href="/article-one" style="color:white">Exercise1   </a>
     
     </div>    
 <br>
@@ -53,7 +53,7 @@ myresume: {
 <div class="container1">
      
 <div class="menu">                
-        &nbsp;&nbsp; <a href="/" style="color:white"> Home </a>  &nbsp;&nbsp; <a href="/myresume" style="color:white">    My Resume  </a>  &nbsp;&nbsp;    My app
+        &nbsp;&nbsp; <a href="/" style="color:white"> Home </a>  &nbsp;&nbsp; <a href="/myresume" style="color:white">    My Resume  </a>  &nbsp;&nbsp;    <a href="/article-one" style="color:white">Exercise1   </a>
     </div>
     <p>  
     <div class="center">
