@@ -115,7 +115,7 @@ objective.
 COURSES COMPLETED
 </H4>
 <p>
-Introduction to Modern Application Development, NPTEL, IIT Madras: Covering web and internet fundamentals, building a web app, javascript,
+Introduction to Modern Application Development, NPTEL, IIT Madras: Covering internet fundamentals, building a web app, javascript,
 database management and security. 
 </p>
 <h4>
