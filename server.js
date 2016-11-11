@@ -101,8 +101,9 @@ ACADEMIC PROFILE
 <td>73%</td>
 </tr>
 </table>
-
+<h4>
 CAREER OBJECTIVE
+</h4>
 To work for an organization which provides me the opportunity to improve my skills and knowledge to growth along with the organization objective.
 PROJECTS
 Design and installation of Solar power plant (Sept.'13 - Mar.'14)
