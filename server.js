@@ -75,7 +75,7 @@ Phone: +919405880424	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 <h4>
 ACADEMIC PROFILE
 </h4>
-<table border="0">
+<table border="1">
 <tr>
 <th>Degree/Diploma</th>
 <th>Year</th>
