@@ -43,7 +43,11 @@ h2{
 h4{
     margin-top: 5px;
     margin-bottom: 5px;
-    
+    padding-left: 5px;
+}
+
+table{
+    padding-left: 5px;
 }
 
 .menu{
