@@ -1,7 +1,7 @@
 console.log('Loaded!');
 
 //rewrite text
-var element = document.getElementById("Ajit");
+var element = document.getElementById('ajit');
 
 element.innerHTML = 'new value';
 
