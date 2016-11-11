@@ -131,7 +131,7 @@ PROJECTS
 ACADEMIC INTERESTS
 </h4>
 <p>
-Power Electronics, Electrical & electronics measurement, Electrical machines.
+Power electronics, Electrical & electronics measurement, Electrical machines.
 </p>
 <h4>
 COURSES TAKEN IN ENGINEERING
