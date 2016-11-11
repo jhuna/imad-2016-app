@@ -81,6 +81,8 @@ Design and installation of Solar power plant (Sept.'13 - Mar.'14)
 B.Tech project completed at BCET, Sergarh/Bhubaneshwar.
 Project Sponsored by Innodust, Bhubaneswar
 Project Guide: Lect. Chakradhar Panda
+ACADEMIC INTERESTS
+Power Electronics, Electrical & electronics measurement, Electrical machines.
 
     </p>
     
