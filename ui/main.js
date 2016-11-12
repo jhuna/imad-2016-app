@@ -16,3 +16,4 @@ var img = document.getElementById("madison");
     var interval = setInterval(moveRight, 100);
 //img.style.marginLeft = '100px';
 };
+
