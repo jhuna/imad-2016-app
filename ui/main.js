@@ -18,7 +18,7 @@ var img = document.getElementById("madison");
 };
 
 
-var button = document.getElementById("cc");
+var button = document.getElementById("clickme");
 button.onclick = function () {
     var request = new XMLHttpRequest();
     request.onreadystatechange = function () {
