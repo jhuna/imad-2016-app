@@ -3,7 +3,7 @@ console.log('Loaded!');
 //rewrite text
 //var element = document.getElementById("ajit");
 //element.innerHTML = 'new value';
-
+/*
 //move the image
 var img = document.getElementById("madison");
  var marginLeft = 0;
@@ -16,7 +16,7 @@ var img = document.getElementById("madison");
     var interval = setInterval(moveRight, 100);
 //img.style.marginLeft = '100px';
 };
-
+*/
 var button= document.getElementById("cc");
 button.onclick = function () {
     var request = new XMLHttpRequest();
